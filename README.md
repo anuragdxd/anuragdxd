@@ -1,11 +1,10 @@
-Hi 👋 My name is Anurag Dubey
+Hi 👋 My name is Homelander 
 =============================
 
 Exploring
 ---------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [anuragd275@gmail.com](mailto:anuragd275@gmail.com)
 * 🧠  I'm learning JavaScript
 * ⚡  I'm a backup account
 
